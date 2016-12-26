@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/OZYrtR' target='_blank'><img src='http://www.phuongvien.com.vn/image/data/hand-tools/untitled-2.png' width='500px'/><br/>Cung cấp thiết bị cơ khí chính hãng</a>. Thước cặp điện tử mitutoyo giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/dIQWlp' target='_blank'><img src='https://lh3.googleusercontent.com/--x1PWdyVixM/WGCQ375oZNI/AAAAAAAABCE/FO4jMoM8-oMnrcYwV-LjMpCwOsBZreJeACJoC/w530-h213-p-rw/15433774_240166353062895_8751369322971006184_n.jpg' width='500px'/><br/>Cung cấp thiết bị cơ khí chính hãng</a>. Thước cặp điện tử mitutoyo giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
