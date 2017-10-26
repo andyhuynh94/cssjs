@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/dIQWlp' target='_blank'><img src='https://lh3.googleusercontent.com/--x1PWdyVixM/WGCQ375oZNI/AAAAAAAABCE/FO4jMoM8-oMnrcYwV-LjMpCwOsBZreJeACJoC/w530-h213-p-rw/15433774_240166353062895_8751369322971006184_n.jpg' width='500px'/><br/>Cung cấp dụng cụ cầm tay chính hãng</a>. Dụng cụ cầm tay Stanley chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/dIQWlp' target='_blank'><img src='https://lh3.googleusercontent.com/--x1PWdyVixM/WGCQ375oZNI/AAAAAAAABCE/FO4jMoM8-oMnrcYwV-LjMpCwOsBZreJeACJoC/w530-h213-p-rw/15433774_240166353062895_8751369322971006184_n.jpg' width='500px'/><br/>Cung cấp ê tô máy phay Đài Loan cao cấp</a>. Ê tô máy phay chính hãng Đài Loan. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
